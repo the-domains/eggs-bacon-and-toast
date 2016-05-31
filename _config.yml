@@ -1,0 +1,14 @@
+layout_spectrum: 0.9105508588254452
+typography_spectrum: 0.0999593366868794
+color:
+  brandStrength: 0.26009819167666137
+  lightness: 0.37915343325585127
+  saturation: 0.15309350145980716
+  rhythmicContrast: 0.34280757466331124
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: eggs bacon and toast
